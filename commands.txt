@@ -1,0 +1,9 @@
+> npm install @angular/cli@6 -g
+
+> ng --version
+
+> ng new users-app
+
+> cd users-app
+
+> ng serve --open
